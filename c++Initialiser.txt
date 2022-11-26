@@ -1,0 +1,4 @@
+It came since C++11:
+go for initialising variables before the class is constructed with non-narrowing option (e.g can not pass flot for integer variable) ,it may be mandatory for 
+reference passing :
+https://www.studytonight.com/cpp/initializer-list-in-cpp.php.
