@@ -1,4 +1,5 @@
 #include "first_app.hpp"
+#include "lve_device.hpp"
 
 namespace lve {
 
